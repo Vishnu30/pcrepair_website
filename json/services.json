@@ -1,0 +1,24 @@
+[
+	{
+
+	"name":"Hardware Repair",
+	"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+	"price_range":"$100-$200"
+	
+    },
+    {
+
+	"name":"Virus removal",
+	"description":"Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+	"price_range":"$100-$150"
+
+    },
+    {
+
+	"name":"Pc tune up",
+	"description":"Lorem Ipsum is simply dummy text ever since the 1500s, when an unknown printer took a galley of type",
+	"price_range":"$75-$100"
+
+    }
+
+]
